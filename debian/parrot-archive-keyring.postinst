@@ -1,0 +1,16 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+    configure)
+	# Install the symlink upon first installation
+	mkdir -p /etc/apt/trusted.gpg.d/
+	ln -sf /usr/share/keyrings/parrot-archive-keyring.gpg \
+	       /etc/apt/trusted.gpg.d/parrot-archive-keyring.gpg
+	echo "Installed parrot-archive-keyring as a trusted APT keyring."
+    ;;
+esac
+
+#DEBHELPER#
+

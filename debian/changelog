@@ -1,0 +1,48 @@
+parrot-archive-keyring (2017.7+parrot1) testing; urgency=medium
+
+  * Create missing folders in /etc/apt.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 05 Jul 2017 01:54:04 +0200
+
+parrot-archive-keyring (2017.7+parrot0) testing; urgency=medium
+
+  * Remove old key and update new one.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 04 Jul 2017 01:25:10 +0200
+
+parrot-archive-keyring (2017.2+parrot0) testing; urgency=medium
+
+  * Add new Parrot Project GPG key
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 14 Feb 2017 00:20:06 +0100
+
+parrot-archive-keyring (2016.7+parrot2) testing; urgency=medium
+
+  * Fix udeb postinst
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 18 Jul 2016 19:41:52 +0200
+
+parrot-archive-keyring (2016.7+parrot1) testing; urgency=medium
+
+  * minor fixes
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 06 Jul 2016 19:01:42 +0200
+
+parrot-archive-keyring (2016.7+parrot0) testing; urgency=medium
+
+  * Include provides/includes to get over kali-archive-keyring and debian-archive-kayring
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 06 Jul 2016 18:55:11 +0200
+
+parrot-archive-keyring (2016.5+parrot0) testing; urgency=medium
+
+  * Fix interaction with debian-archive-keyring (i want that fuckin' key here you asshole!)
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@parrotsec.org>  Sun, 15 May 2016 01:34:47 +0200
+
+parrot-archive-keyring (2016.4+parrot0) testing; urgency=medium
+
+  * Debianize parrot keyring
+  * Add udeb package for net-retriever
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Mon, 18 Apr 2016 21:44:54 +0200
