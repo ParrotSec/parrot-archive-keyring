@@ -9,7 +9,7 @@ based on the debian-keyring package maintained by James Troup
 Debian support files for debian-archive-keyring are free software; you
 can redistribute them and/or modify them under the terms of the GNU
 General Public License as published by the Free Software Foundation;
-either version 2, or (at your option) any later version.
+either version 3, or (at your option) any later version.
 
 Debian support files for debian-archive-keyring are distributed in the
 hope that they will be useful, but WITHOUT ANY WARRANTY; without even

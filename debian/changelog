@@ -1,3 +1,9 @@
+parrot-archive-keyring (2019.6+parrot1) testing; urgency=medium
+
+  * Import new GPG key for future release.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 09 Jun 2019 03:22:36 +0200
+
 parrot-archive-keyring (2017.7+parrot1) testing; urgency=medium
 
   * Create missing folders in /etc/apt.
