@@ -1,3 +1,10 @@
+parrot-archive-keyring (2019.6+parrot2) testing; urgency=medium
+
+  * Make package required.
+  * Make package provide devuan keyring.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 19 Jun 2019 08:21:44 +0200
+
 parrot-archive-keyring (2019.6+parrot1) testing; urgency=medium
 
   * Import new GPG key for future release.
