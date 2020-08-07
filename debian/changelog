@@ -1,3 +1,9 @@
+parrot-archive-keyring (2020.8+parrot1) rolling; urgency=medium
+
+  * Update keys up to 2022.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 07 Aug 2020 19:46:48 +0200
+
 parrot-archive-keyring (2019.6+parrot2) testing; urgency=medium
 
   * Make package required.
