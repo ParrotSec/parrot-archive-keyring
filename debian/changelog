@@ -1,3 +1,10 @@
+parrot-archive-keyring (2021.7+parrot1) rolling; urgency=medium
+
+  * Update jetring structure.
+  * Import new 2021-2024 key for Parrot LTS.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 30 Jul 2021 17:36:56 +0200
+
 parrot-archive-keyring (2020.8+parrot3) rolling; urgency=medium
 
   * Fix syntax in jetring files.
